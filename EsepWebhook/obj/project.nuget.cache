@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ahPDOPiseJ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aayus\\Downloads\\esep-webhooks\\EsepWebhook\\EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aayus\\.nuget\\packages\\amazon.lambda.core\\2.8.1\\amazon.lambda.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\aayus\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.5\\amazon.lambda.serialization.systemtextjson.2.4.5.nupkg.sha512",
+    "C:\\Users\\aayus\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\aayus\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\10.0.15\\microsoft.netcore.app.runtime.linux-x64.10.0.15.nupkg.sha512",
+    "C:\\Users\\aayus\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\10.0.15\\microsoft.aspnetcore.app.runtime.linux-x64.10.0.15.nupkg.sha512",
+    "C:\\Users\\aayus\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\10.0.15\\microsoft.netcore.app.crossgen2.win-x64.10.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
